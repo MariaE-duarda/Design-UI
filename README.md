@@ -1,5 +1,5 @@
 # Design-UI
- Projetos criados por mim com Designer UI.
+ Projetos criados por mim como Designer UI.
 
 <div align="center">
  
