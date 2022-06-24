@@ -6,3 +6,9 @@
  ## 1° Projeto - Telas de Autenticação:
 <img width=600px src="https://github.com/MariaE-duarda/Imagens/blob/main/dupla%20tela.png?raw=true">
  </div>
+
+<div align="center">
+ 
+ ## 2° Projeto - Telas de Autenticação:
+<img width=600px src="https://github.com/MariaE-duarda/Imagens/blob/main/layout.png?raw=true">
+ </div>
