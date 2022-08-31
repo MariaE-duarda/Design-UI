@@ -18,3 +18,9 @@
  ## 3° Projeto - Sprite Cat: 
  <img width=600px src="https://github.com/MariaE-duarda/Design-UI/blob/main/Projeto%2003%20-%20Sprite%208%20bits/Cat%20Frames.png?raw=true">
  </div>
+
+<div align='center'>
+
+## 4° Projeto - E-commerce: 
+<img width=600px src='https://github.com/MariaE-duarda/Design-UI/blob/main/Projeto%2004%20-%20E-commerce%20gold/UI%20design%20gold.png?raw=true'>
+</div>
